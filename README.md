@@ -5,6 +5,7 @@ A TODO app written with [flutter](https://flutter.dev).
 ![](todo.gif)
 
 ## Features
+
 1. Add Todo
 2. Mark Todo as completed
 3. Delete Todo
