@@ -12,6 +12,7 @@ A TODO app written with [flutter](https://flutter.dev).
 5. Error will redo the action and show a snackbar
 
 ## Database
+
 1. Firebase Realtime Database
 
 ## Getting Started
